@@ -14,3 +14,8 @@ Created simple CRUD web API to store the contact detils of users in MySQL databs
 Once you run the project you will see attched scree as an output in web browser.
 
 <img width="1394" alt="output" src="https://github.com/dev-scripts/contact-api-mysql-auth-jwt/assets/9651702/fbebdb88-ed0e-4574-9601-31dc1c46cd3d">
+
+I have other two repo for same project
+
+1. Contact API using MySQL database, no Authorization : https://github.com/dev-scripts/contact-api-mysql
+2. Contact API using InMemoery database, no Authorization : https://github.com/dev-scripts/contact-api
