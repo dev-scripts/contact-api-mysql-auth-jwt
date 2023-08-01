@@ -4,9 +4,6 @@ Created simple CRUD web API to store the contact detils of users in MySQL databs
 ## Install tool globally
 `dotnet tool install --global dotnet-ef` Install EF tool globally if you don't have.  
 
-## Add First migration
-`dotnet ef migrations add MyFirstMigration ` This will create a folder inside your project.
-
 ## Create table in the DB
 `dotnet ef database update`. this command will create table in DB.# contact-api-mysql-auth-jwt
 
