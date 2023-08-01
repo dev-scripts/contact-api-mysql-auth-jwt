@@ -1,5 +1,6 @@
-Simple CRUD web API created by using DotNet Core 7 to store contact details in MySQL Databse. Repository Design pattern is followed to create the API.
+## .NET 7 ContactWeb API 🔒 Authorization with JSON Web Tokens (JWT)
 
+Created simple CRUD web API to store the contact detils of users in MySQL databse. Contact API is protected with JSON Web Tokens (JWT).
 ## Install tool globally
 `dotnet tool install --global dotnet-ef` Install EF tool globally if you don't have.  
 
@@ -8,3 +9,8 @@ Simple CRUD web API created by using DotNet Core 7 to store contact details in M
 
 ## Create table in the DB
 `dotnet ef database update`. this command will create table in DB.# contact-api-mysql-auth-jwt
+
+## Result
+Once you run the project you will see attched scree as an output in web browser.
+
+<img width="1394" alt="output" src="https://github.com/dev-scripts/contact-api-mysql-auth-jwt/assets/9651702/fbebdb88-ed0e-4574-9601-31dc1c46cd3d">
