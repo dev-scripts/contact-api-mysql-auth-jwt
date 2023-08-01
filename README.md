@@ -1,4 +1,4 @@
-## .NET 7 ContactWeb API 🔒 Authorization with JSON Web Tokens (JWT)
+## .NET 7 Contact Web API 🔒 Authorization with JSON Web Tokens (JWT)
 
 Created simple CRUD web API to store the contact detils of users in MySQL databse. Contact API is protected with JSON Web Tokens (JWT).
 ## Install tool globally
